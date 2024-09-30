@@ -64,12 +64,12 @@ button {
 }
 
 .gallery img:nth-child(2), .gallery img:nth-child(3) {
-    width: 55%;
+    width: 57.5%;
 } 
 
 .gallery img {
-    height: 16vw;
-    width: 45%;
+    height: 17vw;
+    width: 42.5%;
     object-fit: cover;
     padding: 5px;
     box-sizing: border-box;
